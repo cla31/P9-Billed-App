@@ -4,7 +4,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-# Project 9 Billed from React JS Application Developer Training:
+# Project 9 "Billed" from React JS Application Developer Training:
 **Debug and test an HR SaaS**
 <br/>
 <br/>
