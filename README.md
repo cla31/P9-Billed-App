@@ -4,13 +4,15 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-# Project 9 "Billed" from React JS Application Developer Training:
-**Debug and test an HR SaaS**
+# "Billed" 
+Debug and test an HR SaaS
 <br/>
 <br/>
 ![LOGO](./logo.png)<br/>
 <br/>
 <br/>
+Project 9 "Billed" from React JS Application Developer Training:<br/>
+##
 **Skills developed**:
 - Write unit tests with JavaScript
 - Debug a web application with the Chrome Debugger
