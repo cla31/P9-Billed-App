@@ -5,8 +5,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 # P9-Billed-App
-##
 **Debug and test an HR SaaS**
+<br/>
 ![LOGO](./logo.png)<br/>
 **Skills developed**:
 - Write unit tests with JavaScript
