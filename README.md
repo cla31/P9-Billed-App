@@ -7,7 +7,10 @@
 # P9-Billed-App
 **Debug and test an HR SaaS**
 <br/>
+<br/>
 ![LOGO](./logo.png)<br/>
+<br/>
+<br/>
 **Skills developed**:
 - Write unit tests with JavaScript
 - Debug a web application with the Chrome Debugger
